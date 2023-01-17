@@ -28,3 +28,5 @@ Sample (3). Here is the public Angles2D
 
 Sample (4) Here is the Angles2D ICloneable.
 
+To sum up, it took me a lot of time to figure out which pattern could fix better using the WebGL's pratices, as it was not easy to figure out in specially those projects. If we could at least apply the patterns in our personal projects or any other idea we wanted to implement giving us the chance to be a bit more creative in the resolution, would have been pretty much easier, understandable and even enjoyable. Which in this case, wasn't at all.
+
